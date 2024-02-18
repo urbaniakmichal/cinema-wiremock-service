@@ -1,0 +1,25 @@
+{
+  "name": "Login into app",
+  "request": {
+    "method": "POST",
+    "urlPathPattern": "/api/v1/user/login",
+    "bodyPatterns": [
+      {
+        "equalToJson": {
+          "email": "john.wick@retired.com",
+          "password": "top secret"
+        },
+        "headers" : {
+          "Access-Control-Allow-Origin" : "*"
+        }
+      }
+    ]
+  },
+  "response": {
+    "status": 201,
+    "bodyFileName": "user-login-successful-response.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

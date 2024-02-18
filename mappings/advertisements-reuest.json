@@ -1,0 +1,14 @@
+{
+	"name": "Get advertisements movies",
+	"request": {
+		"method": "GET",
+		"urlPathPattern": "/api/v1/advertisements/movies"
+	},
+	"response": {
+		"status": 200,
+		"bodyFileName": "advertisements-response.json",
+		"headers": {
+			"Content-Type": "application/json"
+		}
+	}
+}

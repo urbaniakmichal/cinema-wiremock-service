@@ -1,0 +1,28 @@
+{
+  "name": "Register new user",
+  "request": {
+    "method": "POST",
+    "urlPathPattern": "/api/v1/user/register",
+    "bodyPatterns": [
+      {
+        "equalToJson": {
+          "name": "John",
+          "surname": "Wick",
+          "email": "john.wick@retired.com",
+          "password": "top secret",
+          "legalAge": true
+        },
+        "headers" : {
+          "Access-Control-Allow-Origin" : "*"
+        }
+      }
+    ]
+  },
+  "response": {
+    "status": 201,
+    "bodyFileName": "user-register-successful-response.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

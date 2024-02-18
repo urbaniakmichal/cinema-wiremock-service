@@ -1,0 +1,14 @@
+{
+  "name": "Get repertoire movies",
+  "request": {
+    "method": "GET",
+    "urlPathPattern": "/api/v1/repertoire/movies"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "repertoire-movies-response.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

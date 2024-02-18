@@ -1,0 +1,541 @@
+[
+	{
+		"repertoireDay": "{{dateFormat (now) 'full'}}",
+		"movies": [
+			{
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "{{randomValue length=5 type='ALPHANUMERIC'}}",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"hour": "11:00"
+					},
+					{
+						"hour": "13:00"
+					},
+					{
+						"hour": "15:00"
+					},
+					{
+						"hour": "17:00"
+					},
+					{
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English"
+			},
+			{
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"hour": "11:00"
+					},
+					{
+						"hour": "13:00"
+					},
+					{
+						"hour": "15:00"
+					},
+					{
+						"hour": "17:00"
+					},
+					{
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English"
+			},
+			{
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"hour": "11:00"
+					},
+					{
+						"hour": "13:00"
+					},
+					{
+						"hour": "15:00"
+					},
+					{
+						"hour": "17:00"
+					},
+					{
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English"
+			}
+		]
+	},
+	{
+		"repertoireDay": "{{dateFormat (now offset='1 days') 'full'}}",
+		"movies": [
+			{
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"hour": "11:00"
+					},
+					{
+						"hour": "13:00"
+					},
+					{
+						"hour": "15:00"
+					},
+					{
+						"hour": "17:00"
+					},
+					{
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English"
+			},
+			{
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"hour": "11:00"
+					},
+					{
+						"hour": "13:00"
+					},
+					{
+						"hour": "15:00"
+					},
+					{
+						"hour": "17:00"
+					},
+					{
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English"
+			},
+			{
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"hour": "11:00"
+					},
+					{
+						"hour": "13:00"
+					},
+					{
+						"hour": "15:00"
+					},
+					{
+						"hour": "17:00"
+					},
+					{
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English"
+			}
+		]
+	},
+	{
+		"repertoireDay": "{{dateFormat (now offset='2 days') 'full'}}",
+		"movies": [
+			{
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"hour": "11:00"
+					},
+					{
+						"hour": "13:00"
+					},
+					{
+						"hour": "15:00"
+					},
+					{
+						"hour": "17:00"
+					},
+					{
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English"
+			},
+			{
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"hour": "11:00"
+					},
+					{
+						"hour": "13:00"
+					},
+					{
+						"hour": "15:00"
+					},
+					{
+						"hour": "17:00"
+					},
+					{
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English"
+			},
+			{
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"hour": "11:00"
+					},
+					{
+						"hour": "13:00"
+					},
+					{
+						"hour": "15:00"
+					},
+					{
+						"hour": "17:00"
+					},
+					{
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English"
+			}
+		]
+	},
+	{
+		"repertoireDay": "{{dateFormat (now offset='3 days') 'full'}}",
+		"movies": [
+			{
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"hour": "11:00"
+					},
+					{
+						"hour": "13:00"
+					},
+					{
+						"hour": "15:00"
+					},
+					{
+						"hour": "17:00"
+					},
+					{
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English"
+			},
+			{
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"hour": "11:00"
+					},
+					{
+						"hour": "13:00"
+					},
+					{
+						"hour": "15:00"
+					},
+					{
+						"hour": "17:00"
+					},
+					{
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English"
+			},
+			{
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"hour": "11:00"
+					},
+					{
+						"hour": "13:00"
+					},
+					{
+						"hour": "15:00"
+					},
+					{
+						"hour": "17:00"
+					},
+					{
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English"
+			}
+		]
+	},
+	{
+		"repertoireDay": "{{dateFormat (now offset='4 days') 'full'}}",
+		"movies": [
+			{
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"hour": "11:00"
+					},
+					{
+						"hour": "13:00"
+					},
+					{
+						"hour": "15:00"
+					},
+					{
+						"hour": "17:00"
+					},
+					{
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English"
+			},
+			{
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"hour": "11:00"
+					},
+					{
+						"hour": "13:00"
+					},
+					{
+						"hour": "15:00"
+					},
+					{
+						"hour": "17:00"
+					},
+					{
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English"
+			},
+			{
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"hour": "11:00"
+					},
+					{
+						"hour": "13:00"
+					},
+					{
+						"hour": "15:00"
+					},
+					{
+						"hour": "17:00"
+					},
+					{
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English"
+			}
+		]
+	},
+	{
+		"repertoireDay": "{{dateFormat (now offset='5 days') 'full'}}",
+		"movies": [
+			{
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"hour": "11:00"
+					},
+					{
+						"hour": "13:00"
+					},
+					{
+						"hour": "15:00"
+					},
+					{
+						"hour": "17:00"
+					},
+					{
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English"
+			},
+			{
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"hour": "11:00"
+					},
+					{
+						"hour": "13:00"
+					},
+					{
+						"hour": "15:00"
+					},
+					{
+						"hour": "17:00"
+					},
+					{
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English"
+			},
+			{
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"hour": "11:00"
+					},
+					{
+						"hour": "13:00"
+					},
+					{
+						"hour": "15:00"
+					},
+					{
+						"hour": "17:00"
+					},
+					{
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English"
+			}
+		]
+	},
+	{
+		"repertoireDay": "{{dateFormat (now offset='6 days') 'full'}}",
+		"movies": [
+			{
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"hour": "11:00"
+					},
+					{
+						"hour": "13:00"
+					},
+					{
+						"hour": "15:00"
+					},
+					{
+						"hour": "17:00"
+					},
+					{
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English"
+			},
+			{
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"hour": "11:00"
+					},
+					{
+						"hour": "13:00"
+					},
+					{
+						"hour": "15:00"
+					},
+					{
+						"hour": "17:00"
+					},
+					{
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English"
+			},
+			{
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"hour": "11:00"
+					},
+					{
+						"hour": "13:00"
+					},
+					{
+						"hour": "15:00"
+					},
+					{
+						"hour": "17:00"
+					},
+					{
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English"
+			}
+		]
+	}
+]
