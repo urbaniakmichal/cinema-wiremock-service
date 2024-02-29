@@ -1,0 +1,17 @@
+[
+	{
+		"id": "11111",
+		"type": "discounted",
+		"price": "22"
+	},
+	{
+		"id": "22222",
+		"type": "regular",
+		"price": "25"
+	},
+	{
+		"id": "33333",
+		"type": "family",
+		"price": "18"
+	}
+]

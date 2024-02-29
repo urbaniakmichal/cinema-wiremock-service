@@ -1,0 +1,793 @@
+[
+	{
+		"repertoireDay": "{{dateFormat (now) 'full'}}",
+		"movies": [
+			{
+				"id": "{{randomValue type='UUID'}}",
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings 1",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "11:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "13:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "15:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "17:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English",
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+				"original_title": "Original title",
+				"cast": "John Wick",
+				"director": "John Wick",
+				"duration": "120 min",
+				"premiere": "5 sty 2024"
+			},
+			{
+				"id": "{{randomValue type='UUID'}}",
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings 2",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "11:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "13:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "15:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "17:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English",
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+				"original_title": "Original title",
+				"cast": "John Wick",
+				"director": "John Wick",
+				"duration": "120 min",
+				"premiere": "5 sty 2024"
+			},
+			{
+				"id": "{{randomValue type='UUID'}}",
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings 3",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "11:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "13:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "15:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "17:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English",
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+				"original_title": "Original title",
+				"cast": "John Wick",
+				"director": "John Wick",
+				"duration": "120 min",
+				"premiere": "5 sty 2024"
+			}
+		]
+	},
+	{
+		"repertoireDay": "{{dateFormat (now offset='1 days') 'full'}}",
+		"movies": [
+			{
+				"id": "{{randomValue type='UUID'}}",
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings 4",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "11:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "13:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "15:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "17:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English",
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+				"original_title": "Original title",
+				"cast": "John Wick",
+				"director": "John Wick",
+				"duration": "120 min",
+				"premiere": "5 sty 2024"
+			},
+			{
+				"id": "{{randomValue type='UUID'}}",
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings 5",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "11:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "13:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "15:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "17:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English",
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+				"original_title": "Original title",
+				"cast": "John Wick",
+				"director": "John Wick",
+				"duration": "120 min",
+				"premiere": "5 sty 2024"
+			},
+			{
+				"id": "{{randomValue type='UUID'}}",
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings 6",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "11:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "13:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "15:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "17:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English",
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+				"original_title": "Original title",
+				"cast": "John Wick",
+				"director": "John Wick",
+				"duration": "120 min",
+				"premiere": "5 sty 2024"
+			}
+		]
+	},
+	{
+		"repertoireDay": "{{dateFormat (now offset='2 days') 'full'}}",
+		"movies": [
+			{
+				"id": "{{randomValue type='UUID'}}",
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings 7",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "11:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "13:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "15:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "17:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English",
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+				"original_title": "Original title",
+				"cast": "John Wick",
+				"director": "John Wick",
+				"duration": "120 min",
+				"premiere": "5 sty 2024"
+			},
+			{
+				"id": "{{randomValue type='UUID'}}",
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings 8",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "11:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "13:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "15:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "17:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English",
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+				"original_title": "Original title",
+				"cast": "John Wick",
+				"director": "John Wick",
+				"duration": "120 min",
+				"premiere": "5 sty 2024"
+			},
+			{
+				"id": "{{randomValue type='UUID'}}",
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings 9",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "11:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "13:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "15:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "17:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English",
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+				"original_title": "Original title",
+				"cast": "John Wick",
+				"director": "John Wick",
+				"duration": "120 min",
+				"premiere": "5 sty 2024"
+			}
+		]
+	},
+	{
+		"repertoireDay": "{{dateFormat (now offset='3 days') 'full'}}",
+		"movies": [
+			{
+				"id": "{{randomValue type='UUID'}}",
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings 10",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "11:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "13:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "15:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "17:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English",
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+				"original_title": "Original title",
+				"cast": "John Wick",
+				"director": "John Wick",
+				"duration": "120 min",
+				"premiere": "5 sty 2024"
+			},
+			{
+				"id": "{{randomValue type='UUID'}}",
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings 11",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "11:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "13:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "15:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "17:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English",
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+				"original_title": "Original title",
+				"cast": "John Wick",
+				"director": "John Wick",
+				"duration": "120 min",
+				"premiere": "5 sty 2024"
+			},
+			{
+				"id": "{{randomValue type='UUID'}}",
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings 12",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "11:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "13:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "15:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "17:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English",
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+				"original_title": "Original title",
+				"cast": "John Wick",
+				"director": "John Wick",
+				"duration": "120 min",
+				"premiere": "5 sty 2024"
+			}
+		]
+	},
+	{
+		"repertoireDay": "{{dateFormat (now offset='4 days') 'full'}}",
+		"movies": [
+			{
+				"id": "{{randomValue type='UUID'}}",
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings 13",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "11:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "13:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "15:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "17:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English",
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+				"original_title": "Original title",
+				"cast": "John Wick",
+				"director": "John Wick",
+				"duration": "120 min",
+				"premiere": "5 sty 2024"
+			},
+			{
+				"id": "{{randomValue type='UUID'}}",
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings 14",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "11:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "13:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "15:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "17:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English",
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+				"original_title": "Original title",
+				"cast": "John Wick",
+				"director": "John Wick",
+				"duration": "120 min",
+				"premiere": "5 sty 2024"
+			},
+			{
+				"id": "{{randomValue type='UUID'}}",
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings 15",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "11:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "13:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "15:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "17:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English",
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+				"original_title": "Original title",
+				"cast": "John Wick",
+				"director": "John Wick",
+				"duration": "120 min",
+				"premiere": "5 sty 2024"
+			}
+		]
+	},
+	{
+		"repertoireDay": "{{dateFormat (now offset='5 days') 'full'}}",
+		"movies": [
+			{
+				"id": "{{randomValue type='UUID'}}",
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings 16",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "11:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "13:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "15:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "17:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English",
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+				"original_title": "Original title",
+				"cast": "John Wick",
+				"director": "John Wick",
+				"duration": "120 min",
+				"premiere": "5 sty 2024"
+			},
+			{
+				"id": "{{randomValue type='UUID'}}",
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings 17",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "11:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "13:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "15:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "17:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English",
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+				"original_title": "Original title",
+				"cast": "John Wick",
+				"director": "John Wick",
+				"duration": "120 min",
+				"premiere": "5 sty 2024"
+			},
+			{
+				"id": "{{randomValue type='UUID'}}",
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings 18",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "11:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "13:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "15:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "17:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English",
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+				"original_title": "Original title",
+				"cast": "John Wick",
+				"director": "John Wick",
+				"duration": "120 min",
+				"premiere": "5 sty 2024"
+			}
+		]
+	},
+	{
+		"repertoireDay": "{{dateFormat (now offset='6 days') 'full'}}",
+		"movies": [
+			{
+				"id": "{{randomValue type='UUID'}}",
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings 19",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "11:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "13:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "15:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "17:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English",
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+				"original_title": "Original title",
+				"cast": "John Wick",
+				"director": "John Wick",
+				"duration": "120 min",
+				"premiere": "5 sty 2024"
+			},
+			{
+				"id": "{{randomValue type='UUID'}}",
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings 20",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "11:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "13:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "15:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "17:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English",
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+				"original_title": "Original title",
+				"cast": "John Wick",
+				"director": "John Wick",
+				"duration": "120 min",
+				"premiere": "5 sty 2024"
+			},
+			{
+				"id": "{{randomValue type='UUID'}}",
+				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"title": "Lord of the Rings 21",
+				"genre": "Fantasy",
+				"hours": [
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "11:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "13:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "15:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "17:00"
+					},
+					{
+						"id": "{{randomValue type='UUID'}}",
+						"hour": "19:00"
+					}
+				],
+				"type": "3D",
+				"language": "English",
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+				"original_title": "Original title",
+				"cast": "John Wick",
+				"director": "John Wick",
+				"duration": "120 min",
+				"premiere": "5 sty 2024"
+			}
+		]
+	}
+]

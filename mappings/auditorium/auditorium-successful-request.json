@@ -1,0 +1,14 @@
+{
+	"name": "Get auditorium",
+	"request": {
+		"method": "GET",
+		"urlPathPattern": "/api/v1/auditorium"
+	},
+	"response": {
+		"status": 200,
+		"bodyFileName": "./auditorium/auditorium-successful-response.json",
+		"headers": {
+			"Content-Type": "application/json"
+		}
+	}
+}

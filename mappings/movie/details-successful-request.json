@@ -1,0 +1,14 @@
+{
+	"name": "Get details movies",
+	"request": {
+		"method": "GET",
+		"urlPathPattern": "/api/v1/details/movie/([0-9]*)"
+	},
+	"response": {
+		"status": 200,
+		"bodyFileName": "./movie/details-successful-response.json",
+		"headers": {
+			"Content-Type": "application/json"
+		}
+	}
+}

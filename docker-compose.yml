@@ -2,10 +2,10 @@ version: '3'
 
 services:
   wiremock:
-    container_name: wiremock-service-virtualization-app
+    container_name: cinema-wiremock-service
     image: wiremock/wiremock:latest
     ports:
-      - "9091:8080"
+      - "9092:8080"
     volumes:
       - ./__files/:/home/wiremock/__files/
       - ./mappings/:/home/wiremock/mappings/
