@@ -1,0 +1,14 @@
+{
+	"name": "Get tickets",
+	"request": {
+		"method": "GET",
+		"urlPathPattern": "/api/v1/tickets"
+	},
+	"response": {
+		"status": 200,
+		"bodyFileName": "./ticket/select-ticket-successful-response.json",
+		"headers": {
+			"Content-Type": "application/json"
+		}
+	}
+}

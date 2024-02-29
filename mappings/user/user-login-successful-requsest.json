@@ -1,16 +1,13 @@
 {
-  "name": "Register new user",
+  "name": "Login into app",
   "request": {
     "method": "POST",
-    "urlPathPattern": "/api/v1/user/register",
+    "urlPathPattern": "/api/v1/user/login",
     "bodyPatterns": [
       {
         "equalToJson": {
-          "name": "John",
-          "surname": "Wick",
           "email": "john.wick@retired.com",
-          "password": "top secret",
-          "legalAge": true
+          "password": "top secret"
         },
         "headers" : {
           "Access-Control-Allow-Origin" : "*"
@@ -20,7 +17,7 @@
   },
   "response": {
     "status": 201,
-    "bodyFileName": "user-register-successful-response.json",
+    "bodyFileName": "./user/user-login-successful-response.json",
     "headers": {
       "Content-Type": "application/json"
     }

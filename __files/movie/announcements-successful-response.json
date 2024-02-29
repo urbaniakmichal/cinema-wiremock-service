@@ -1,81 +1,101 @@
 [
 	{
+		"id": "{{randomValue type='UUID'}}",
 		"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
 		"title": "Title 1 Lorem Impus"
 	},
 	{
+		"id": "{{randomValue type='UUID'}}",
 		"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
 		"title": "Title 2 Lorem Impus"
 	},
 	{
+		"id": "{{randomValue type='UUID'}}",
 		"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
 		"title": "Title 3 Lorem Impus"
 	},
 	{
+		"id": "{{randomValue type='UUID'}}",
 		"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
 		"title": "Title 4 Lorem Impus"
 	},
 	{
+		"id": "{{randomValue type='UUID'}}",
 		"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
 		"title": "Title 5 Lorem Impus"
 	},
 	{
+		"id": "{{randomValue type='UUID'}}",
 		"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
 		"title": "Title 6 Lorem Impus"
 	},
 	{
+		"id": "{{randomValue type='UUID'}}",
 		"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
 		"title": "Title 7 Lorem Impus"
 	},
 	{
+		"id": "{{randomValue type='UUID'}}",
 		"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
 		"title": "Title 8 Lorem Impus"
 	},
 	{
+		"id": "{{randomValue type='UUID'}}",
 		"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
 		"title": "Title 9 Lorem Impus"
 	},
 	{
+		"id": "{{randomValue type='UUID'}}",
 		"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
 		"title": "Title 10 Lorem Impus"
 	},
 	{
+		"id": "{{randomValue type='UUID'}}",
 		"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
 		"title": "Title 11 Lorem Impus"
 	},
 	{
+		"id": "{{randomValue type='UUID'}}",
 		"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
 		"title": "Title 12 Lorem Impus"
 	},
 	{
+		"id": "{{randomValue type='UUID'}}",
 		"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
 		"title": "Title 13 Lorem Impus"
 	},
 	{
+		"id": "{{randomValue type='UUID'}}",
 		"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
 		"title": "Title 14 Lorem Impus"
 	},
 	{
+		"id": "{{randomValue type='UUID'}}",
 		"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
 		"title": "Title 15 Lorem Impus"
 	},
 	{
+		"id": "{{randomValue type='UUID'}}",
 		"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
 		"title": "Title 16 Lorem Impus"
 	},
 	{
+		"id": "{{randomValue type='UUID'}}",
 		"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
 		"title": "Title 17 Lorem Impus"
 	},
 	{
+		"id": "{{randomValue type='UUID'}}",
 		"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
 		"title": "Title 18 Lorem Impus"
 	},
 	{
+		"id": "{{randomValue type='UUID'}}",
 		"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
 		"title": "Title 19 Lorem Impus"
 	},
 	{
+		"id": "{{randomValue type='UUID'}}",
 		"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
 		"title": "Title 20 Lorem Impus"
 	}
