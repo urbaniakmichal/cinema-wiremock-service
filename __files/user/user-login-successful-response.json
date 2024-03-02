@@ -1,4 +1,7 @@
 {
+  "id": "{{randomValue type='UUID'}}",
+  "name": "John",
+  "surname": "Wick",
   "email": "john.wick@retired.com",
-  "password": "top secret"
+  "isActive": true
 }
