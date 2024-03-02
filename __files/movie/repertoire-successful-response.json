@@ -1,5 +1,6 @@
 [
 	{
+		"id": "{{randomValue type='UUID'}}",
 		"repertoireDay": "{{dateFormat (now) 'full'}}",
 		"movies": [
 			{
@@ -113,6 +114,7 @@
 		]
 	},
 	{
+		"id": "{{randomValue type='UUID'}}",
 		"repertoireDay": "{{dateFormat (now offset='1 days') 'full'}}",
 		"movies": [
 			{
@@ -226,6 +228,7 @@
 		]
 	},
 	{
+		"id": "{{randomValue type='UUID'}}",
 		"repertoireDay": "{{dateFormat (now offset='2 days') 'full'}}",
 		"movies": [
 			{
@@ -339,6 +342,7 @@
 		]
 	},
 	{
+		"id": "{{randomValue type='UUID'}}",
 		"repertoireDay": "{{dateFormat (now offset='3 days') 'full'}}",
 		"movies": [
 			{
@@ -452,6 +456,7 @@
 		]
 	},
 	{
+		"id": "{{randomValue type='UUID'}}",
 		"repertoireDay": "{{dateFormat (now offset='4 days') 'full'}}",
 		"movies": [
 			{
@@ -565,6 +570,7 @@
 		]
 	},
 	{
+		"id": "{{randomValue type='UUID'}}",
 		"repertoireDay": "{{dateFormat (now offset='5 days') 'full'}}",
 		"movies": [
 			{
@@ -678,6 +684,7 @@
 		]
 	},
 	{
+		"id": "{{randomValue type='UUID'}}",
 		"repertoireDay": "{{dateFormat (now offset='6 days') 'full'}}",
 		"movies": [
 			{
