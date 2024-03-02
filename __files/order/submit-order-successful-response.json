@@ -1,0 +1,5 @@
+{
+	"id": "{{randomValue type='UUID'}}",
+	"orderDate": "{{dateFormat (now) 'full'}}",
+	"orderId": "123456"
+}
