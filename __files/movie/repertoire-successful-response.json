@@ -118,7 +118,7 @@
 	{
 		"repertoireDay": {
 			"id": "{{randomValue type='UUID'}}",
-			"day": "{{dateFormat (now) 'full'}}"
+			"day": "{{dateFormat (now offset='1 days') 'full'}}"
 		},
 		"movies": [
 			{
@@ -234,7 +234,7 @@
 	{
 		"repertoireDay": {
 			"id": "{{randomValue type='UUID'}}",
-			"day": "{{dateFormat (now) 'full'}}"
+			"day": "{{dateFormat (now offset='2 days') 'full'}}"
 		},
 		"movies": [
 			{
@@ -350,7 +350,7 @@
 	{
 		"repertoireDay": {
 			"id": "{{randomValue type='UUID'}}",
-			"day": "{{dateFormat (now) 'full'}}"
+			"day": "{{dateFormat (now offset='3 days') 'full'}}"
 		},
 		"movies": [
 			{
@@ -466,7 +466,7 @@
 	{
 		"repertoireDay": {
 			"id": "{{randomValue type='UUID'}}",
-			"day": "{{dateFormat (now) 'full'}}"
+			"day": "{{dateFormat (now offset='4 days') 'full'}}"
 		},
 		"movies": [
 			{
@@ -582,7 +582,7 @@
 	{
 		"repertoireDay": {
 			"id": "{{randomValue type='UUID'}}",
-			"day": "{{dateFormat (now) 'full'}}"
+			"day": "{{dateFormat (now offset='5 days') 'full'}}"
 		},
 		"movies": [
 			{
@@ -698,7 +698,7 @@
 	{
 		"repertoireDay": {
 			"id": "{{randomValue type='UUID'}}",
-			"day": "{{dateFormat (now) 'full'}}"
+			"day": "{{dateFormat (now offset='6 days') 'full'}}"
 		},
 		"movies": [
 			{
