@@ -7,8 +7,8 @@
 		"movies": [
 			{
 				"id": "{{randomValue type='UUID'}}",
-				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
-				"title": "Lord of the Rings 1",
+				"picture": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/6156O2R.jpg",
+				"title": "Akademia Pana Kleksa",
 				"genre": "Fantasy",
 				"hours": [
 					{
@@ -32,20 +32,20 @@
 						"hour": "19:00"
 					}
 				],
-				"type": "3D",
+				"type": "2D",
 				"language": "English",
-				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-				"original_title": "Original title",
-				"cast": "John Wick",
-				"director": "John Wick",
-				"duration": "120 min",
-				"premiere": "5 sty 2024"
+				"description": "\"Akademia Pana Kleksa\" to uwspółcześniona wersja klasycznej bajki Brzechwy, przemawiająca swoją treścią i formą do najmłodszych, ale i wchodząca w dialog ze starszymi widzami, którzy wciąż pamiętają kultową ekranizację z lat 80. Film przedstawia historię pozornie zwykłej dziewczynki - Ady Niezgódki - która trafia do tytułowej Akademii, żeby poznać świat bajek, wyobraźni i kreatywności. Przy pomocy wybitnego i szalonego pedagoga profesora Ambrożego Kleksa rozwija swoje niesamowite umiejętności, a także wpada na ślad, który pomoże jej rozwikłać największą rodzinną tajemnicę…",
+				"original_title": "Akademia Pana Kleksa",
+				"cast": "Tomasz Kot, Antonina Litwiniak, Piotr Fronczewski",
+				"director": "Maciej Kawulski",
+				"duration": "125 min",
+				"premiere": "05-03-2024"
 			},
 			{
 				"id": "{{randomValue type='UUID'}}",
-				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
-				"title": "Lord of the Rings 2",
-				"genre": "Fantasy",
+				"picture": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/6026S2R.jpg",
+				"title": "ANATOMIA UPADKU",
+				"genre": "Kryminał, Dramat, Wydarzenie, Thriller",
 				"hours": [
 					{
 						"id": "{{randomValue type='UUID'}}",
@@ -68,20 +68,20 @@
 						"hour": "19:00"
 					}
 				],
-				"type": "3D",
+				"type": "2D",
 				"language": "English",
-				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-				"original_title": "Original title",
-				"cast": "John Wick",
-				"director": "John Wick",
-				"duration": "120 min",
-				"premiere": "5 sty 2024"
+				"description": "Życie szczęśliwej rodziny we francuskich Alpach zostaje przerwane, gdy Samuel ginie w wyniku upadku. Skoczył sam, poślizgnął się czy może z balkonu wypchnęła go Sandra, żona i matka? Śledczym brakuje dowodów, w sprawie brakuje świadków. Na oczach opinii publicznej Sandra będzie musiała spowiadać się z najdrobniejszych i najintymniejszych szczegółów swojego małżeństwa, które mogą zaważyć o wyroku. Proces, który nurtuje wszystkich, toczy się również w głowach widzów, a pytanie jest oczywiste i brzmi: \"Czy to zrobiła?\".",
+				"original_title": "Anatomie d'une chute",
+				"cast": "Sandra Hüller, Swann Arlaud, Milo Machado Graner",
+				"director": "Justine Triet",
+				"duration": "150 min",
+				"premiere": "23-02-2024"
 			},
 			{
 				"id": "{{randomValue type='UUID'}}",
-				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
-				"title": "Lord of the Rings 3",
-				"genre": "Fantasy",
+				"picture": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/6400O2R.jpg",
+				"title": "Biała Odwaga",
+				"genre": "Dramat, Wojenny",
 				"hours": [
 					{
 						"id": "{{randomValue type='UUID'}}",
@@ -104,14 +104,14 @@
 						"hour": "19:00"
 					}
 				],
-				"type": "3D",
+				"type": "2D",
 				"language": "English",
-				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-				"original_title": "Original title",
-				"cast": "John Wick",
-				"director": "John Wick",
-				"duration": "120 min",
-				"premiere": "5 sty 2024"
+				"description": "Historia dwóch podhalańskich rodów wystawionych na najtrudniejszą próbę podczas niemieckiej okupacji.",
+				"original_title": "Biała Odwaga",
+				"cast": "Filip Pławiak, Julian Świeżewski, Sandra Drzymalska, Jakub Gierszał, Juliusz Chrząstowski, Andrzej Konopka, Wiktoria Gorodecka, Adam Woronowicz",
+				"director": "Marcin Koszałka",
+				"duration": "115 min",
+				"premiere": "08-03-2024"
 			}
 		]
 	},
@@ -123,8 +123,8 @@
 		"movies": [
 			{
 				"id": "{{randomValue type='UUID'}}",
-				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
-				"title": "Lord of the Rings 4",
+				"picture": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/5936S2R.jpg",
+				"title": "Bob Marley. One Love",
 				"genre": "Fantasy",
 				"hours": [
 					{
@@ -150,18 +150,18 @@
 				],
 				"type": "3D",
 				"language": "English",
-				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-				"original_title": "Original title",
-				"cast": "John Wick",
-				"director": "John Wick",
-				"duration": "120 min",
-				"premiere": "5 sty 2024"
+				"description": "BOB MARLEY: ONE LOVE celebruje życie i muzykę ikony, która zainspirowała pokolenia swoim przesłaniem miłości i jedności. Zobaczymy historię Boba o pokonywaniu przeciwności losu i historii stojącej za jego rewolucyjną muzyką. Film wyprodukowany we współpracy z rodziną Marleyów.",
+				"original_title": "Bob Marley. One Love ATMOS",
+				"cast": "Reinaldo Marcus Green",
+				"director": "Reinaldo Marcus Green",
+				"duration": "107 min",
+				"premiere": "16-02-2024"
 			},
 			{
 				"id": "{{randomValue type='UUID'}}",
-				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
-				"title": "Lord of the Rings 5",
-				"genre": "Fantasy",
+				"picture": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/5783S2R.jpg",
+				"title": "Diuna: Część druga",
+				"genre": "Sci-Fi",
 				"hours": [
 					{
 						"id": "{{randomValue type='UUID'}}",
@@ -186,16 +186,16 @@
 				],
 				"type": "3D",
 				"language": "English",
-				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-				"original_title": "Original title",
-				"cast": "John Wick",
+				"description": "Książę Paul Atryda przyjmuje przydomek Muad'Dib i rozpoczyna duchowo-fizyczną podróż, by stać się przepowiedzianym w proroctwie wyzwolicielem ludu Diuny. UWAGA! NIEKTÓRE PARTIE DIALOGÓW W ORYGINALNEJ ŚCIEŻCE DŹWIĘKOWEJ PROWADZONE SĄ W JĘZYKU INNYM NIZ ANGIELSKI I NIE SĄ TŁUMACZONE NA JĘZYK ANGIELSKI, A WYŁĄCZNIE NA NAPIPSY W JĘZYKU POLSKIM.",
+				"original_title": "Dune: Part Two 2",
+				"cast": "TIMOTHEE CHALAMET, REBECCA FERGUSON, ZENDAYA, JOSH BROLIN, FLORENCE PUGH, AUSTIN BUTLER, CHRISTOPHER WALKEN, JAVIER BARDEM",
 				"director": "John Wick",
-				"duration": "120 min",
+				"duration": "165 min",
 				"premiere": "5 sty 2024"
 			},
 			{
 				"id": "{{randomValue type='UUID'}}",
-				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"picture": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/6247D2R.jpg",
 				"title": "Lord of the Rings 6",
 				"genre": "Fantasy",
 				"hours": [
@@ -222,11 +222,11 @@
 				],
 				"type": "3D",
 				"language": "English",
-				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+				"description": "W przepięknych okolicznościach przyrody rozkwita niezwykła znajomość dorastającej dziewczynki i czarnego jaguara. Połączeni zdumiewającą więzią przyjaciele, dadzą wszystkim niezapomnianą lekcję zaufania, szacunku i ekologii oraz pokażą, że przyszłość planety i ochrona dóbr naturalnych jest – jak nigdy – w naszych rękach",
 				"original_title": "Original title",
 				"cast": "John Wick",
 				"director": "John Wick",
-				"duration": "120 min",
+				"duration": "100 min",
 				"premiere": "5 sty 2024"
 			}
 		]
