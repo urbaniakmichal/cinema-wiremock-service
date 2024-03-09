@@ -1,7 +1,8 @@
 {
   "id": "{{randomValue type='UUID'}}",
-  "name": "John",
-  "surname": "Wick",
-  "email": "john.wick@retired.com",
-  "isActive": true
+  "name": "mockname",
+  "surname": "mocksurname",
+  "email": "mock@user.com",
+  "isActive": true,
+  "jwtToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImpvZG9vIiwiaWF0IjoxNTE2MjM5MDIyfQ.MTQ0NjJkZmQ5OTM5"
 }

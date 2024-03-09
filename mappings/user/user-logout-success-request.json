@@ -1,0 +1,14 @@
+{
+	"name": "Login into app",
+	"request": {
+		"method": "POST",
+		"urlPathPattern": "/api/v1/user/logout"
+	},
+	"response": {
+		"status": 201,
+		"bodyFileName": "./user/user-logout-success-response.json",
+		"headers": {
+			"Content-Type": "application/json"
+		}
+	}
+}
