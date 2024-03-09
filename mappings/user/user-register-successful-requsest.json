@@ -6,11 +6,10 @@
     "bodyPatterns": [
       {
         "equalToJson": {
-          "name": "John",
-          "surname": "Wick",
-          "email": "john.wick@retired.com",
-          "password": "top secret",
-          "legalAge": true
+          "name": "mockname",
+          "surname": "mockusername",
+          "email": "mock@user.com",
+          "password": "mockuser"
         },
         "headers" : {
           "Access-Control-Allow-Origin" : "*"

@@ -6,8 +6,8 @@
     "bodyPatterns": [
       {
         "equalToJson": {
-          "email": "john.wick@retired.com",
-          "password": "top secret"
+          "email": "mock@user.com",
+          "password": "mockuser"
         },
         "headers" : {
           "Access-Control-Allow-Origin" : "*"

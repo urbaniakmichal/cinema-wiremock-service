@@ -1,7 +1,5 @@
 {
-  "name": "John",
-  "surname": "Wick",
-  "email": "john.wick@retired.com",
-  "password": "top secret",
-  "legalAge": true
+  "name": "mockname",
+  "surname": "mocksurname",
+  "email": "mock@user.com"
 }
