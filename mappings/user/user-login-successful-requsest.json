@@ -7,7 +7,7 @@
       {
         "equalToJson": {
           "email": "mock@user.com",
-          "password": "mockuser"
+          "password": "mockpassword"
         },
         "headers" : {
           "Access-Control-Allow-Origin" : "*"
