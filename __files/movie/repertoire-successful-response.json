@@ -195,9 +195,9 @@
 			},
 			{
 				"id": "{{randomValue type='UUID'}}",
-				"picture": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/6247D2R.jpg",
-				"title": "Lord of the Rings 6",
-				"genre": "Fantasy",
+				"picture": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/6223S2R.jpg",
+				"title": "The zone of interest",
+				"genre": "Drama, War",
 				"hours": [
 					{
 						"id": "{{randomValue type='UUID'}}",
@@ -239,9 +239,9 @@
 		"movies": [
 			{
 				"id": "{{randomValue type='UUID'}}",
-				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
-				"title": "Lord of the Rings 7",
-				"genre": "Fantasy",
+				"picture": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/6161S2R.jpg",
+				"title": "Anyone but you",
+				"genre": "Comedy, Romance",
 				"hours": [
 					{
 						"id": "{{randomValue type='UUID'}}",
@@ -275,9 +275,9 @@
 			},
 			{
 				"id": "{{randomValue type='UUID'}}",
-				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
-				"title": "Lord of the Rings 8",
-				"genre": "Fantasy",
+				"picture": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/6358S2R.jpg",
+				"title": "When Evil Lurks",
+				"genre": "Horror",
 				"hours": [
 					{
 						"id": "{{randomValue type='UUID'}}",
@@ -311,8 +311,8 @@
 			},
 			{
 				"id": "{{randomValue type='UUID'}}",
-				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
-				"title": "Lord of the Rings 9",
+				"picture": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/6416O2R.jpg",
+				"title": "Budda. Dzieciak '98",
 				"genre": "Fantasy",
 				"hours": [
 					{
@@ -355,9 +355,9 @@
 		"movies": [
 			{
 				"id": "{{randomValue type='UUID'}}",
-				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
-				"title": "Lord of the Rings 10",
-				"genre": "Fantasy",
+				"picture": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/6452S2R.jpg",
+				"title": "Marathon Godzilla and Kong",
+				"genre": "Marathon",
 				"hours": [
 					{
 						"id": "{{randomValue type='UUID'}}",
@@ -391,9 +391,9 @@
 			},
 			{
 				"id": "{{randomValue type='UUID'}}",
-				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
-				"title": "Lord of the Rings 11",
-				"genre": "Fantasy",
+				"picture": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/6220S2R.jpg",
+				"title": "Bastarden",
+				"genre": "Drama, History",
 				"hours": [
 					{
 						"id": "{{randomValue type='UUID'}}",
@@ -427,9 +427,9 @@
 			},
 			{
 				"id": "{{randomValue type='UUID'}}",
-				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
-				"title": "Lord of the Rings 12",
-				"genre": "Fantasy",
+				"picture": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/5935D2R.jpg",
+				"title": "Migration ScreenX",
+				"genre": "Action, Anime",
 				"hours": [
 					{
 						"id": "{{randomValue type='UUID'}}",
@@ -471,7 +471,7 @@
 		"movies": [
 			{
 				"id": "{{randomValue type='UUID'}}",
-				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"picture": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/6401O2R.jpg",
 				"title": "Lord of the Rings 13",
 				"genre": "Fantasy",
 				"hours": [
@@ -507,7 +507,7 @@
 			},
 			{
 				"id": "{{randomValue type='UUID'}}",
-				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"picture": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/6420S2R.jpg",
 				"title": "Lord of the Rings 14",
 				"genre": "Fantasy",
 				"hours": [
@@ -543,7 +543,7 @@
 			},
 			{
 				"id": "{{randomValue type='UUID'}}",
-				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"picture": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/6452S2R.jpg",
 				"title": "Lord of the Rings 15",
 				"genre": "Fantasy",
 				"hours": [
@@ -587,7 +587,7 @@
 		"movies": [
 			{
 				"id": "{{randomValue type='UUID'}}",
-				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"picture": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/6222D2R.jpg",
 				"title": "Lord of the Rings 16",
 				"genre": "Fantasy",
 				"hours": [
@@ -623,7 +623,7 @@
 			},
 			{
 				"id": "{{randomValue type='UUID'}}",
-				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"picture": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/6354D2R.jpg",
 				"title": "Lord of the Rings 17",
 				"genre": "Fantasy",
 				"hours": [
@@ -659,7 +659,7 @@
 			},
 			{
 				"id": "{{randomValue type='UUID'}}",
-				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"picture": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/6281D2R.jpg",
 				"title": "Lord of the Rings 18",
 				"genre": "Fantasy",
 				"hours": [
@@ -703,7 +703,7 @@
 		"movies": [
 			{
 				"id": "{{randomValue type='UUID'}}",
-				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"picture": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/6281D2R.jpg",
 				"title": "Lord of the Rings 19",
 				"genre": "Fantasy",
 				"hours": [
@@ -739,7 +739,7 @@
 			},
 			{
 				"id": "{{randomValue type='UUID'}}",
-				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"picture": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/6281D2R.jpg",
 				"title": "Lord of the Rings 20",
 				"genre": "Fantasy",
 				"hours": [
@@ -775,7 +775,7 @@
 			},
 			{
 				"id": "{{randomValue type='UUID'}}",
-				"picture": "https://fwcdn.pl/fpo/10/65/1065/7912491.3.jpg",
+				"picture": "https://www.cinema-city.pl/xmedia-cw/repo/feats/posters/2824D3I.jpg",
 				"title": "Lord of the Rings 21",
 				"genre": "Fantasy",
 				"hours": [
