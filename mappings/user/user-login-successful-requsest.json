@@ -5,13 +5,8 @@
     "urlPathPattern": "/api/v1/user/login",
     "bodyPatterns": [
       {
-        "equalToJson": {
-          "email": "mock@user.com",
-          "password": "mockpassword"
-        },
-        "headers" : {
-          "Access-Control-Allow-Origin" : "*"
-        }
+        "matchesJsonPath": "$.email",
+        "matchesJsonPath": "$.password"
       }
     ]
   },

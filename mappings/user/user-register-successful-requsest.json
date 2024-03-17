@@ -5,15 +5,10 @@
     "urlPathPattern": "/api/v1/user/register",
     "bodyPatterns": [
       {
-        "equalToJson": {
-          "name": "mockname",
-          "surname": "mockusername",
-          "email": "mock@user.com",
-          "password": "mockuser"
-        },
-        "headers" : {
-          "Access-Control-Allow-Origin" : "*"
-        }
+        "matchesJsonPath": "$.name",
+        "matchesJsonPath": "$.surname",
+        "matchesJsonPath": "$.email",
+        "matchesJsonPath": "$.password"
       }
     ]
   },
