@@ -1,0 +1,14 @@
+{
+	"name": "Login into app",
+	"request": {
+		"method": "GET",
+		"urlPathPattern": "/api/v1/third-part/payment/type"
+	},
+	"response": {
+		"status": 200,
+		"bodyFileName": "./payment/third-part-payment-type-ok-response.json",
+		"headers": {
+			"Content-Type": "application/json"
+		}
+	}
+}

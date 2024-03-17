@@ -1,0 +1,126 @@
+[
+	{
+		"id": "{{randomValue type='UUID'}}",
+		"name": "Visa",
+		"imageUrl": "https://play-lh.googleusercontent.com/DB-E7TSbWobxBzjS6IenXRXhkg2gNOM_685qcnKoPs9D6I9Y_4MdbQi9nhRvRCC9m5g"
+	},
+	{
+		"id": "{{randomValue type='UUID'}}",
+		"name": "MasterCard",
+		"imageUrl": "https://marketingprzykawie.pl/wp-content/uploads/2017/06160715135013_mastercard_stare_logo_large.jpg"
+	},
+	{
+		"id": "{{randomValue type='UUID'}}",
+		"name": "Google Pay",
+		"imageUrl": "https://www.punto-informatico.it/app/uploads/2018/09/g_pay1-2120x848.jpg"
+	},
+	{
+		"id": "{{randomValue type='UUID'}}",
+		"name": "Pay Pal",
+		"imageUrl": "https://www.cyberbay.pl/wp-content/uploads/2020/10/PayPal-50-zl-oplaty-za-nieaktywnosc-e1602162201203-810x449.jpg"
+	},
+	{
+		"id": "{{randomValue type='UUID'}}",
+		"name": "mBank",
+		"imageUrl": "https://grubber.gpcdn.pl/companies/18217196/employer-profile-logos/ee4d0000-5df0-0015-084f-08daa610ee27.jpg"
+	},
+	{
+		"id": "{{randomValue type='UUID'}}",
+		"name": "PKO SA",
+		"imageUrl": "https://phavi.umcs.pl/ph/r,1200,630/agicon/c/2020/0825/58770045f44dcb9f3500.jpg"
+	},
+	{
+		"id": "{{randomValue type='UUID'}}",
+		"name": "PKO BP",
+		"imageUrl": "https://static.wirtualnemedia.pl/media/images/PKOBP_nowelogo.JPG"
+	},
+	{
+		"id": "{{randomValue type='UUID'}}",
+		"name": "Bit Pay",
+		"imageUrl": "https://insidebitcoins.com/wp-content/uploads/2022/03/BitPay.jpg"
+	},
+	{
+		"id": "{{randomValue type='UUID'}}",
+		"name": "Apple Pay",
+		"imageUrl": "https://developer.apple.com/news/images/og/apple-pay-og-twitter.jpg"
+	},
+	{
+		"id": "{{randomValue type='UUID'}}",
+		"name": "Samsung Pay",
+		"imageUrl": "https://i.pinimg.com/736x/96/ba/3c/96ba3cbf876d279cf213c499564f1ede.jpg"
+	},{
+	"id": "{{randomValue type='UUID'}}",
+	"name": "Visa",
+	"imageUrl": "https://play-lh.googleusercontent.com/DB-E7TSbWobxBzjS6IenXRXhkg2gNOM_685qcnKoPs9D6I9Y_4MdbQi9nhRvRCC9m5g"
+},
+	{
+		"id": "{{randomValue type='UUID'}}",
+		"name": "MasterCard",
+		"imageUrl": "https://marketingprzykawie.pl/wp-content/uploads/2017/06160715135013_mastercard_stare_logo_large.jpg"
+	},
+	{
+		"id": "{{randomValue type='UUID'}}",
+		"name": "Google Pay",
+		"imageUrl": "https://www.punto-informatico.it/app/uploads/2018/09/g_pay1-2120x848.jpg"
+	},
+	{
+		"id": "{{randomValue type='UUID'}}",
+		"name": "Pay Pal",
+		"imageUrl": "https://www.cyberbay.pl/wp-content/uploads/2020/10/PayPal-50-zl-oplaty-za-nieaktywnosc-e1602162201203-810x449.jpg"
+	},
+	{
+		"id": "{{randomValue type='UUID'}}",
+		"name": "mBank",
+		"imageUrl": "https://grubber.gpcdn.pl/companies/18217196/employer-profile-logos/ee4d0000-5df0-0015-084f-08daa610ee27.jpg"
+	},
+	{
+		"id": "{{randomValue type='UUID'}}",
+		"name": "PKO SA",
+		"imageUrl": "https://phavi.umcs.pl/ph/r,1200,630/agicon/c/2020/0825/58770045f44dcb9f3500.jpg"
+	},
+	{
+		"id": "{{randomValue type='UUID'}}",
+		"name": "PKO BP",
+		"imageUrl": "https://static.wirtualnemedia.pl/media/images/PKOBP_nowelogo.JPG"
+	},
+	{
+		"id": "{{randomValue type='UUID'}}",
+		"name": "Bit Pay",
+		"imageUrl": "https://insidebitcoins.com/wp-content/uploads/2022/03/BitPay.jpg"
+	},
+	{
+		"id": "{{randomValue type='UUID'}}",
+		"name": "Apple Pay",
+		"imageUrl": "https://developer.apple.com/news/images/og/apple-pay-og-twitter.jpg"
+	},
+	{
+		"id": "{{randomValue type='UUID'}}",
+		"name": "Samsung Pay",
+		"imageUrl": "https://i.pinimg.com/736x/96/ba/3c/96ba3cbf876d279cf213c499564f1ede.jpg"
+	},
+	{
+		"id": "{{randomValue type='UUID'}}",
+		"name": "Samsung Pay",
+		"imageUrl": "https://i.pinimg.com/736x/96/ba/3c/96ba3cbf876d279cf213c499564f1ede.jpg"
+	},
+	{
+		"id": "{{randomValue type='UUID'}}",
+		"name": "Samsung Pay",
+		"imageUrl": "https://i.pinimg.com/736x/96/ba/3c/96ba3cbf876d279cf213c499564f1ede.jpg"
+	},
+	{
+		"id": "{{randomValue type='UUID'}}",
+		"name": "Samsung Pay",
+		"imageUrl": "https://i.pinimg.com/736x/96/ba/3c/96ba3cbf876d279cf213c499564f1ede.jpg"
+	},
+	{
+		"id": "{{randomValue type='UUID'}}",
+		"name": "Samsung Pay",
+		"imageUrl": "https://i.pinimg.com/736x/96/ba/3c/96ba3cbf876d279cf213c499564f1ede.jpg"
+	},
+	{
+		"id": "{{randomValue type='UUID'}}",
+		"name": "Samsung Pay",
+		"imageUrl": "https://i.pinimg.com/736x/96/ba/3c/96ba3cbf876d279cf213c499564f1ede.jpg"
+	}
+]
