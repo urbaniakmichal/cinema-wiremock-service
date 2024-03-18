@@ -12,7 +12,7 @@
   },
   "response": {
     "status": 201,
-    "bodyFileName": "./user/user-login-successful-response.json",
+    "bodyFileName": "./user/user-login-ok-response.json",
     "headers": {
       "Content-Type": "application/json"
     }
