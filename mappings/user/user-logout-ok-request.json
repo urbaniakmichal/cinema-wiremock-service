@@ -6,7 +6,7 @@
 	},
 	"response": {
 		"status": 201,
-		"bodyFileName": "./user/user-logout-success-response.json",
+		"bodyFileName": "./user/user-logout-ok-response.json",
 		"headers": {
 			"Content-Type": "application/json"
 		}

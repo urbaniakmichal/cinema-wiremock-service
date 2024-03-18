@@ -6,7 +6,7 @@
 	},
 	"response": {
 		"status": 200,
-		"bodyFileName": "./movie/announcements-successful-response.json",
+		"bodyFileName": "./movie/announcements-ok-response.json",
 		"headers": {
 			"Content-Type": "application/json"
 		}

@@ -6,7 +6,7 @@
   },
   "response": {
     "status": 200,
-    "bodyFileName": "./movie/repertoire-successful-response.json",
+    "bodyFileName": "./movie/repertoire-ok-response.json",
     "headers": {
       "Content-Type": "application/json"
     }

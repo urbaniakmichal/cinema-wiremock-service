@@ -6,7 +6,7 @@
 	},
 	"response": {
 		"status": 200,
-		"bodyFileName": "./auditorium/auditorium-successful-response.json",
+		"bodyFileName": "./auditorium/auditorium-ok-response.json",
 		"headers": {
 			"Content-Type": "application/json"
 		}

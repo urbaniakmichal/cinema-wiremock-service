@@ -14,7 +14,7 @@
   },
   "response": {
     "status": 201,
-    "bodyFileName": "./user/user-register-successful-response.json",
+    "bodyFileName": "./user/user-register-ok-response.json",
     "headers": {
       "Content-Type": "application/json"
     }
