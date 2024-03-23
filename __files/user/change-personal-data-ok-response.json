@@ -1,0 +1,6 @@
+{
+	"id": "{{randomValue type='UUID'}}",
+	"name": "mockname",
+	"surname": "mocksurname",
+	"email": "mock@user.com"
+}

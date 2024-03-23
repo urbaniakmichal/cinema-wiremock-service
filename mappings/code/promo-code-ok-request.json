@@ -1,0 +1,19 @@
+{
+	"name": "Get promo code",
+	"request": {
+		"method": "GET",
+		"urlPathPattern": "/api/v1/code/promo",
+		"queryParameters": {
+			"value": {
+				"matches": ".*"
+			}
+		}
+	},
+	"response": {
+		"status": 201,
+		"bodyFileName": "./code/promo-code-ok-response.json",
+		"headers": {
+			"Content-Type": "application/json"
+		}
+	}
+}
