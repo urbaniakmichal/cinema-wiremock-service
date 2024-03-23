@@ -1,0 +1,23 @@
+{
+	"name": "Change personal data",
+	"request": {
+		"method": "POST",
+		"urlPathPattern": "/api/v1/user/change-data",
+		"bodyPatterns": [
+			{
+				"matchesJsonPath": "$.id",
+				"matchesJsonPath": "$.name",
+				"matchesJsonPath": "$.surname",
+				"matchesJsonPath": "$.email",
+				"matchesJsonPath": "$.password"
+			}
+		]
+	},
+	"response": {
+		"status": 201,
+		"bodyFileName": "./user/change-personal-data-ok-response.json",
+		"headers": {
+			"Content-Type": "application/json"
+		}
+	}
+}
