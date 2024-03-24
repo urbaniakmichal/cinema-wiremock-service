@@ -1,0 +1,19 @@
+{
+	"name": "Get tickets history",
+	"request": {
+		"method": "GET",
+		"urlPathPattern": "/api/v1/order/history",
+		"queryParameters": {
+			"userID": {
+				"matches": ".*"
+			}
+		}
+	},
+	"response": {
+		"status": 201,
+		"bodyFileName": "./order/history-order-ok-response.json",
+		"headers": {
+			"Content-Type": "application/json"
+		}
+	}
+}
