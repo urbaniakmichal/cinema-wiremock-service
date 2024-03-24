@@ -1,0 +1,43 @@
+[
+	{
+		"movieTitle": "Lord of the Rings",
+		"movieDate": "{{dateFormat (now) 'full'}}",
+		"movieHour": "13:00",
+		"paymentName": "Samsung Pay",
+		"paymentStatus": "true",
+		"orderDate": "{{dateFormat (now) 'full'}}",
+		"promoCodeValue": "10",
+		"orderPrice": "100.00"
+	},
+	{
+		"movieTitle": "Lord of the Rings",
+		"movieDate": "{{dateFormat (now) 'full'}}",
+		"movieHour": "13:00",
+		"paymentName": "Samsung Pay",
+		"paymentStatus": "true",
+		"orderDate": "{{dateFormat (now) 'full'}}",
+		"promoCodeValue": "10",
+		"orderPrice": "100.00"
+	},
+	
+	{
+		"movieTitle": "Lord of the Rings",
+		"movieDate": "{{dateFormat (now) 'full'}}",
+		"movieHour": "13:00",
+		"paymentName": "Samsung Pay",
+		"paymentStatus": "false",
+		"orderDate": "{{dateFormat (now) 'full'}}",
+		"promoCodeValue": "",
+		"orderPrice": "100.00"
+	},
+	{
+		"movieTitle": "Lord of the Rings",
+		"movieDate": "{{dateFormat (now) 'full'}}",
+		"movieHour": "13:00",
+		"paymentName": "Samsung Pay",
+		"paymentStatus": "false",
+		"orderDate": "{{dateFormat (now) 'full'}}",
+		"promoCodeValue": "",
+		"orderPrice": "100.00"
+	}
+]
